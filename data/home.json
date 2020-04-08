@@ -1,0 +1,16 @@
+{
+  "data": {
+    "cpc_offset": 0,
+    "filter": {
+      "list": [
+        {
+          "fcid": "10057922",
+          "sort": "pop",
+          "style": null,
+          "title": "\u6d41\u6884c",
+          "type": "sort"
+        }
+      ]
+    }
+  }
+}
